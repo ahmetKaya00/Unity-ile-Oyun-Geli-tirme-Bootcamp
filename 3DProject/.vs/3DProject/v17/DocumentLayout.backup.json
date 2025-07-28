@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kaya3\\Documents\\GitHub\\Unity-ile-Oyun-Geli-tirme-Bootcamp\\3DProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|c:\\users\\kaya3\\documents\\github\\unity-ile-oyun-geli-tirme-bootcamp\\3dproject\\assets\\scripts\\animationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|c:\\users\\kaya3\\documents\\github\\unity-ile-oyun-geli-tirme-bootcamp\\3dproject\\assets\\scripts\\cameraswitchers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameraswitchers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|C:\\Users\\Kaya3\\Documents\\GitHub\\Unity-ile-Oyun-Geli-tirme-Bootcamp\\3DProject\\assets\\scripts\\cameraswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAF6531-BB88-FC26-6A77-D0CD1B96C51B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameraswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnimationController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya3\\Documents\\GitHub\\Unity-ile-Oyun-Geli-tirme-Bootcamp\\3DProject\\Assets\\Scripts\\AnimationController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AnimationController.cs",
+              "ToolTip": "C:\\Users\\Kaya3\\Documents\\GitHub\\Unity-ile-Oyun-Geli-tirme-Bootcamp\\3DProject\\Assets\\Scripts\\AnimationController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AnimationController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T13:16:00.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CameraSwitchers.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya3\\Documents\\GitHub\\Unity-ile-Oyun-Geli-tirme-Bootcamp\\3DProject\\Assets\\Scripts\\CameraSwitchers.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraSwitchers.cs",
+              "ToolTip": "C:\\Users\\Kaya3\\Documents\\GitHub\\Unity-ile-Oyun-Geli-tirme-Bootcamp\\3DProject\\Assets\\Scripts\\CameraSwitchers.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraSwitchers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T12:15:38.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraSwitcher.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya3\\Documents\\GitHub\\Unity-ile-Oyun-Geli-tirme-Bootcamp\\3DProject\\Assets\\Scripts\\CameraSwitcher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraSwitcher.cs",
+              "ToolTip": "C:\\Users\\Kaya3\\Documents\\GitHub\\Unity-ile-Oyun-Geli-tirme-Bootcamp\\3DProject\\Assets\\Scripts\\CameraSwitcher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraSwitcher.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T12:09:28.201Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
