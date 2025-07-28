@@ -101,3 +101,4 @@ InitTestScene*.unity*
 # Ignore the PackageCache (to avoid huge files like libburst-llvm)
 # This prevents committing >100MB files like the Burst LLVM libraries
 /[Ll]ibrary/PackageCache/
+2DProject/[Ll]ibrary/PackageCache/
