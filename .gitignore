@@ -1,98 +1,47 @@
-# Unity .gitignore (Gereksiz büyük klasörleri ignore eder, kodlar korunur)
+# Unity Generated Folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
 
-# Genel Unity klasörleri
-.utmp/
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
-*.log
-
-# Blender dosyaları
-*.blend1
-*.blend1.meta
-
-# MemoryCaptures (ağır dosyalar)
-/[Mm]emoryCaptures/
-
-# Recordings (ağır dosyalar)
-/[Rr]ecordings/
-
-# JetBrains Rider
-/[Aa]ssets/Plugins/Editor/JetBrains*
-*.DotSettings.user
-
-# Visual Studio cache ve projeler
-.vs/
-.gradle/
-ExportedObj/
-.consulo/
-*.csproj
-*.unityproj
-*.sln
-*.suo
-*.tmp
-*.user
-*.userprefs
+# Unity Cache & Auto-generated
+sysinfo.txt
 *.pidb
 *.booproj
 *.svd
-*.pdb
-*.mdb
-*.opendb
-*.VC.db
 
-# Unity meta ve crash dosyaları
-*.pidb.meta
-*.pdb.meta
-*.mdb.meta
-sysinfo.txt
-mono_crash.*
+# IDE / Editor Specific
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
 
-# Build dosyaları
-*.apk
-*.aab
-*.unitypackage
-*.unitypackage.meta
-*.app
-crashlytics-build.properties
+# OS Specific
+.DS_Store
+Thumbs.db
 
-# Test sahneleri
-InitTestScene*.unity*
+# Crash & Reports
+*.stacktrace
+*.crash
+*.error
 
-# Addressables
-/ServerData
-/[Aa]ssets/StreamingAssets/aa*
-/[Aa]ssets/AddressableAssetsData/link.xml*
-/[Aa]ssets/Addressables_Temp*
-/[Aa]ssets/AddressableAssetsData/*/*.bin*
+# Ignore for specific projects
+2DProct/[Ll]ibrary/
+2DProct/[Tt]emp/
+2DProct/[Oo]bj/
+2DProct/[Bb]uild*/
+2DProct/[Ll]ogs/
 
-# Visual Scripting
-/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db
-/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db.meta
-/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers
-/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
+3DProject/[Ll]ibrary/
+3DProject/[Tt]emp/
+3DProject/[Oo]bj/
+3DProject/[Bb]uild*/
+3DProject/[Ll]ogs/
 
-# Init test sahneleri (yeniden)
-/[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
-
-# PackageCache (çok büyük dosyalar)
-/[Ll]ibrary/PackageCache/
-
-# 2DProject ve 3DProject altındaki gereksiz klasörler (kodlar korunur)
-/2DProject*/[Aa]ssets/
-/2DProject*/[Ll]ibrary/
-/2DProject*/[Tt]emp/
-/2DProject*/[Bb]uild*/
-/2DProject*/[Bb]uilds/
-/2DProject*/[Ll]ogs/
-
-/3DProject*/[Aa]ssets/
-/3DProject*/[Ll]ibrary/
-/3DProject*/[Tt]emp/
-/3DProject*/[Bb]uild*/
-/3DProject*/[Bb]uilds/
-/3DProject*/[Ll]ogs/
