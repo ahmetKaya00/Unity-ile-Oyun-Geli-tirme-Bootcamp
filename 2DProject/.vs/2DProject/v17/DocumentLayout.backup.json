@@ -3,7 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\Kaya3\\Documents\\GitHub\\Unity-ile-Oyun-Geli-tirme-Bootcamp\\2DProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F478B2A-144D-827E-BDBC-CD6D9B431814}|Assembly-CSharp.csproj|c:\\users\\kaya3\\documents\\github\\unity-ile-oyun-geli-tirme-bootcamp\\2dproject\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F478B2A-144D-827E-BDBC-CD6D9B431814}|Assembly-CSharp.csproj|c:\\users\\kaya3\\documents\\github\\unity-ile-oyun-geli-tirme-bootcamp\\2dproject\\assets\\scripts\\draganddrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F478B2A-144D-827E-BDBC-CD6D9B431814}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\draganddrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F478B2A-144D-827E-BDBC-CD6D9B431814}|Assembly-CSharp.csproj|c:\\users\\kaya3\\documents\\github\\unity-ile-oyun-geli-tirme-bootcamp\\2dproject\\assets\\scripts\\buttoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F478B2A-144D-827E-BDBC-CD6D9B431814}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F478B2A-144D-827E-BDBC-CD6D9B431814}|Assembly-CSharp.csproj|C:\\Users\\Kaya3\\Documents\\GitHub\\Unity-ile-Oyun-Geli-tirme-Bootcamp\\2DProject\\assets\\scripts\\touchphaselogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F478B2A-144D-827E-BDBC-CD6D9B431814}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\touchphaselogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F478B2A-144D-827E-BDBC-CD6D9B431814}|Assembly-CSharp.csproj|C:\\Users\\Kaya3\\Documents\\GitHub\\Unity-ile-Oyun-Geli-tirme-Bootcamp\\2DProject\\assets\\scripts\\tooglefollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F478B2A-144D-827E-BDBC-CD6D9B431814}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tooglefollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F478B2A-144D-827E-BDBC-CD6D9B431814}|Assembly-CSharp.csproj|C:\\Users\\Kaya3\\Documents\\GitHub\\Unity-ile-Oyun-Geli-tirme-Bootcamp\\2DProject\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F478B2A-144D-827E-BDBC-CD6D9B431814}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,15 +35,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DragAndDrop.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya3\\Documents\\GitHub\\Unity-ile-Oyun-Geli-tirme-Bootcamp\\2DProject\\Assets\\Scripts\\DragAndDrop.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DragAndDrop.cs",
+              "ToolTip": "C:\\Users\\Kaya3\\Documents\\GitHub\\Unity-ile-Oyun-Geli-tirme-Bootcamp\\2DProject\\Assets\\Scripts\\DragAndDrop.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DragAndDrop.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T11:40:44.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ButtonController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya3\\Documents\\GitHub\\Unity-ile-Oyun-Geli-tirme-Bootcamp\\2DProject\\Assets\\Scripts\\ButtonController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonController.cs",
+              "ToolTip": "C:\\Users\\Kaya3\\Documents\\GitHub\\Unity-ile-Oyun-Geli-tirme-Bootcamp\\2DProject\\Assets\\Scripts\\ButtonController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T11:37:07.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TouchPhaseLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya3\\Documents\\GitHub\\Unity-ile-Oyun-Geli-tirme-Bootcamp\\2DProject\\Assets\\Scripts\\TouchPhaseLogger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TouchPhaseLogger.cs",
+              "ToolTip": "C:\\Users\\Kaya3\\Documents\\GitHub\\Unity-ile-Oyun-Geli-tirme-Bootcamp\\2DProject\\Assets\\Scripts\\TouchPhaseLogger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TouchPhaseLogger.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwDAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T11:27:07.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToogleFollow.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya3\\Documents\\GitHub\\Unity-ile-Oyun-Geli-tirme-Bootcamp\\2DProject\\Assets\\Scripts\\ToogleFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ToogleFollow.cs",
+              "ToolTip": "C:\\Users\\Kaya3\\Documents\\GitHub\\Unity-ile-Oyun-Geli-tirme-Bootcamp\\2DProject\\Assets\\Scripts\\ToogleFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ToogleFollow.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T12:51:13.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\Kaya3\\Documents\\GitHub\\Unity-ile-Oyun-Geli-tirme-Bootcamp\\2DProject\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
               "ToolTip": "C:\\Users\\Kaya3\\Documents\\GitHub\\Unity-ile-Oyun-Geli-tirme-Bootcamp\\2DProject\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T12:43:42.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T12:43:42.204Z"
             }
           ]
         }
